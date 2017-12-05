@@ -16,6 +16,38 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Func1Activity"
+            android:label="@string/title_activity_func1"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Func2Activity"
+            android:label="@string/title_activity_func2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Func3Activity"
+            android:label="@string/title_activity_func3"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Func4Activity"
+            android:label="@string/title_activity_func4"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Func5Activity"
+            android:label="@string/title_activity_func5"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Func6Activity"
+            android:label="@string/title_activity_func6"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Func7Activity"
+            android:label="@string/title_activity_func7"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Func8Activity"
+            android:label="@string/title_activity_func8"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
