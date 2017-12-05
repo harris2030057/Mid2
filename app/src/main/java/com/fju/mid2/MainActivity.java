@@ -38,9 +38,6 @@ public class MainActivity extends AppCompatActivity {
            /* startActivity(intent);*/
             startActivityForResult(intent , REQUEST_LONGIN);
 
-
-
-            finish();
         }}
     public void func2(View view){
         if(true){
@@ -48,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
             Intent intent = new Intent(this , Func2Activity.class);
            /* startActivity(intent);*/
             startActivityForResult(intent , REQUEST_LONGIN);
-            finish();
+
         }}
     public void func3(View view){
         if(true){
@@ -56,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
             Intent intent = new Intent(this , Func3Activity.class);
            /* startActivity(intent);*/
             startActivityForResult(intent , REQUEST_LONGIN);
-            finish();
+
         }}
     public void func4(View view){
         if(true){
@@ -64,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
             Intent intent = new Intent(this , Func4Activity.class);
            /* startActivity(intent);*/
             startActivityForResult(intent , REQUEST_LONGIN);
-            finish();
+
         }}
     public void func5(View view){
         if(true){
@@ -72,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
             Intent intent = new Intent(this , Func5Activity.class);
            /* startActivity(intent);*/
             startActivityForResult(intent , REQUEST_LONGIN);
-            finish();
+
         }}
     public void func6(View view){
         if(true){
@@ -80,7 +77,7 @@ public class MainActivity extends AppCompatActivity {
             Intent intent = new Intent(this , Func6Activity.class);
            /* startActivity(intent);*/
             startActivityForResult(intent , REQUEST_LONGIN);
-            finish();
+
         }}
     public void func7(View view){
         if(true){
@@ -88,7 +85,7 @@ public class MainActivity extends AppCompatActivity {
             Intent intent = new Intent(this , Func7Activity.class);
            /* startActivity(intent);*/
             startActivityForResult(intent , REQUEST_LONGIN);
-            finish();
+
         }}
     public void func8(View view){
         if(true){
@@ -96,6 +93,6 @@ public class MainActivity extends AppCompatActivity {
             Intent intent = new Intent(this , Func8Activity.class);
            /* startActivity(intent);*/
             startActivityForResult(intent , REQUEST_LONGIN);
-            finish();
+
         }}
 }
