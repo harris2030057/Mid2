@@ -37,7 +37,7 @@
         android:layout_marginLeft="0dp"
         android:layout_marginTop="16dp"
         android:onClick="func3"
-        android:text="功能4"
+        android:text="功能3"
         android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
         app:layout_constraintLeft_toLeftOf="@+id/button2"
         app:layout_constraintTop_toBottomOf="@+id/button2" />
