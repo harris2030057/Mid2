@@ -49,7 +49,7 @@
         android:layout_marginLeft="-16dp"
         android:layout_marginTop="8dp"
         android:onClick="func4"
-        android:text="按鈕4"
+        android:text="功能4"
         android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
         app:layout_constraintLeft_toLeftOf="@+id/button3"
         app:layout_constraintTop_toBottomOf="@+id/button3" />
